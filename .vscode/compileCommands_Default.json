@@ -1,0 +1,47 @@
+[
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\Planet.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\Planet.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\Planet.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\PlanetActor2.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\PlanetActor2.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\PlanetGameModeBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\PlanetGameModeBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\PlanetGeneratorComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\dev\\christiaan\\Planet\\Source\\Planet\\PlanetGeneratorComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\dev\\christiaan\\Planet\\.vscode\\compileCommands_Default\\Planet.213.rsp",
+		"directory": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
+	}
+]

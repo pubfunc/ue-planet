@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch Planet (Debug)",
+			"request": "launch",
+			"program": "D:\\dev\\christiaan\\Planet\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "Planet Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Planet (DebugGame)",
+			"request": "launch",
+			"program": "D:\\dev\\christiaan\\Planet\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "Planet Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Planet (Development)",
+			"request": "launch",
+			"program": "D:\\dev\\christiaan\\Planet\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "Planet Win64 Development Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Planet (Test)",
+			"request": "launch",
+			"program": "D:\\dev\\christiaan\\Planet\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "Planet Win64 Test Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Planet (Shipping)",
+			"request": "launch",
+			"program": "D:\\dev\\christiaan\\Planet\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "Planet Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch PlanetEditor (Debug)",
+			"request": "launch",
+			"program": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "PlanetEditor Win64 Debug Build",
+			"args": [
+				"D:\\dev\\christiaan\\Planet\\Planet.uproject"
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch PlanetEditor (DebugGame)",
+			"request": "launch",
+			"program": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "PlanetEditor Win64 DebugGame Build",
+			"args": [
+				"D:\\dev\\christiaan\\Planet\\Planet.uproject"
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch PlanetEditor (Development)",
+			"request": "launch",
+			"program": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "PlanetEditor Win64 Development Build",
+			"args": [
+				"D:\\dev\\christiaan\\Planet\\Planet.uproject"
+			],
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "F:\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\dev\\christiaan\\Planet\\Planet.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "F:\\EpicGamesLibrary\\UE_5.0"
+		}
+	]
+}
